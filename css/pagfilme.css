@@ -19,9 +19,10 @@ h1 {
 h5 {
     font-family: "Poppins", sans-serif;
     text-align: left;
-    font-size: 18px;
+    font-size: 20px;
     margin-left: 100px;
-    width: 800px;
+    width: 900px;
+    line-height: 35px;
     margin-bottom: 100px;
     color: white;
 
@@ -97,8 +98,9 @@ h5 {
     h5 {
         font-family: "Poppins", sans-serif;
         text-align: left;
-        font-size: 14px;
+        font-size: 16px;
         margin-bottom: 60px;
+        line-height: 25px;
     }
 
     .indicacao {
